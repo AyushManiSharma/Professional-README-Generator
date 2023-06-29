@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AyushManiSharma/Professional-README-Generator/issues"
   },
-  "homepage": "https://github.com/AyushManiSharma/Professional-README-Generator#readme"
+  "homepage": "https://github.com/AyushManiSharma/Professional-README-Generator#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
